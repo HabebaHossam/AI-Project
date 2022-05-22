@@ -134,7 +134,7 @@ class AI:
             return 0, None
 
         if maximizing:
-            max_eval = -100
+            max_eval = -2
             best_move = None
             empty_sqrs = board.get_empty_sqrs()
 
@@ -149,7 +149,7 @@ class AI:
             return max_eval, best_move
 
         elif not maximizing:
-            min_eval = 100
+            min_eval = 2
             best_move = None
             empty_sqrs = board.get_empty_sqrs()
 
