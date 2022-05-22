@@ -1,0 +1,11 @@
+pygame >> pg 
+random >> rd 
+numpy  >> np 
+Change title from 'Tic tac to' To 'Ai project Habiba Mohab Tamer'
+Remove pvp mode 
+
+/***/
+Remove levels 
+/***/
+
+
